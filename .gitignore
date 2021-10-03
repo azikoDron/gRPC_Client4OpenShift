@@ -1,2 +1,4 @@
-client_venv
+templ_venv
+grpc
 .idea
+__*
